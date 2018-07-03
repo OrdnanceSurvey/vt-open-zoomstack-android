@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">vt-open-zoomstack-android</string>
+    <string name="mapbox_access_token"></string>
+
+    <string name="default_map_style">https://s3-eu-west-1.amazonaws.com/tiles.os.uk/styles/open-zoomstack-outdoor/style.json</string>
+    <!-- pick a style
+    Note: extruded buildings may look black in the Android emulator.
+
+    <string name="default_map_style">https://s3-eu-west-1.amazonaws.com/tiles.os.uk/styles/open-zoomstack-light/style.json</string>
+    <string name="default_map_style">https://s3-eu-west-1.amazonaws.com/tiles.os.uk/styles/open-zoomstack-night/style.json</string>
+    <string name="default_map_style">https://s3-eu-west-1.amazonaws.com/tiles.os.uk/styles/open-zoomstack-outdoor/style.json</string>
+    <string name="default_map_style">https://s3-eu-west-1.amazonaws.com/tiles.os.uk/styles/open-zoomstack-road/style.json</string>
+    -->
+</resources>
