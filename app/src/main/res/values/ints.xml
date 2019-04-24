@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- map config -->
+    <integer name="zoom">12</integer>
+    <integer name="tilt">60</integer>
+    <integer name="bearing">0</integer>
+</resources>

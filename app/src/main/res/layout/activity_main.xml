@@ -10,16 +10,9 @@
         android:id="@+id/mapView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:mapbox_cameraTargetLat="53.145252"
-        app:mapbox_cameraTargetLng="-1.7"
-        app:mapbox_cameraZoom="6"
-        app:mapbox_styleUrl="@string/default_map_style"
-        app:mapbox_uiLogo="false"
-        app:mapbox_uiAttribution="false"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </android.support.constraint.ConstraintLayout>
